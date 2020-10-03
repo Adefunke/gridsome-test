@@ -24,7 +24,7 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 - type: select
-  name: author
+  name: AdefunkeA
   config:
     source:
       type: simple
